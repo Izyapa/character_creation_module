@@ -102,4 +102,3 @@ def start_training(character) -> str:
             return (dict_activ[cmd])
     return 'Тренировка окончена.'
 
-print(start_training(Warrior))
